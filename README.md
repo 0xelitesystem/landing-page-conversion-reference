@@ -4,11 +4,15 @@ A landing page exists to get one specific action from a visitor: sign up, buy, b
 
 ## What is inside
 
-- `01-what-a-landing-page-is-for.md` the single job and how it differs from a homepage
-- `02-the-above-the-fold-decision.md` what a visitor needs in the first few seconds
-- `03-one-page-one-goal.md` why competing actions lower conversion
-- `04-reducing-friction.md` removing the small frictions that cost conversions
-- `05-proof-and-honesty.md` earning trust without manipulation
+- [01-what-a-landing-page-is-for.md](01-what-a-landing-page-is-for.md) the single job and how it differs from a homepage
+- [02-the-above-the-fold-decision.md](02-the-above-the-fold-decision.md) what a visitor needs in the first few seconds
+- [03-one-page-one-goal.md](03-one-page-one-goal.md) why competing actions lower conversion
+- [04-reducing-friction.md](04-reducing-friction.md) removing the small frictions that cost conversions
+- [05-proof-and-honesty.md](05-proof-and-honesty.md) earning trust without manipulation
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
